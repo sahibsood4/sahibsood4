@@ -35,10 +35,6 @@ I'm a Business Analyst with a strong product mindset and 5+ years of experience 
 > Integrated GPT API to respond to 500+ user queries/day, automating digital health advice and price checks  
 **Tech**: OpenAI GPT API, Python, Web Automation
 
-### 📦 MDSLP Inventory Tracker (Work in Progress)
-> End-to-end inventory management system using FastField, Google Sheets, SQLite, and Streamlit  
-**Tech**: Streamlit, Python, SQL, Google APIs
-
 ---
 
 ## 💼 Professional Experience
