@@ -39,10 +39,10 @@ I'm a Business Analyst with a strong product mindset and 5+ years of experience 
 
 ## 💼 Professional Experience
 
-**Product Manager @ Prakash Software Solutions**  
+**Software Engineer @ Prakash Software Solutions**  
 Led delivery of 3 enterprise BI tools; improved report turnaround by 40% via user-driven product iterations.
 
-**Product Manager @ Sopra Steria (NHS UK)**  
+**Software Engineer @ Sopra Steria (NHS UK)**  
 Shaped healthcare reporting dashboards; set up success metrics to guide product decisions.
 
 **Associate Product Manager @ Shri Sai Software & AJS Healthcare**  
