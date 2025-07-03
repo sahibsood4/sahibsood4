@@ -65,7 +65,8 @@ _Courses: Python, DBMS, Computer Networks, SDLC_
 ## 📜 Certifications
 
 - 📈 [Google Project Management Certificate](https://coursera.org/share/73fda246aaf2f8a79aac946744585101)
-- 🧪 [Mastercard Test & Learn Certification](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/DZxgGgvMB6cEtEyJg_mfxGwGDp6WkQmtmTf_tMLpWz2AfKKnBrTPy_1744855709117_completion_certificate.pdf)
+- 🧪 [Mastercard Advisors & Consulting Services Job
+Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/DZxgGgvMB6cEtEyJg_mfxGwGDp6WkQmtmTf_tMLpWz2AfKKnBrTPy_1744855709117_completion_certificate.pdf)
 - 🧠 [Predict Concrete Strength - Machine Learning](https://hicounselor.com/certificate/verify/MTI4MzE3MzIy)
 
 ---
