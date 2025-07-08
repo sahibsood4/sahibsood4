@@ -35,9 +35,17 @@ I blend **technical skills**, **agile leadership**, and **user-centered thinking
 > Delivered a **customer trigger analytics tool** to help Oracle’s sales team prioritize leads using behavioral data.  
 **Tech:** Python, SQL, Power BI
 
-### 💊 MEDBAY – AI-Driven Pharmaceutical Website ([GitHub Repo](https://github.com/sahibsood4/MEDBAY))  
+### 💊 MEDBAY – AI-Driven Pharmaceutical Website 
 > Automated responses to 500+ daily queries using OpenAI GPT API to improve digital health communication and pricing transparency.  
 **Tech:** GPT API, Python, Web Automation
+
+### 🤖 LinkedIn Automation Tool
+> Developed a fully automated job application pipeline for LinkedIn, including session cookie login, job scraping, and recruiter outreach.  
+**Tech:** Python, Playwright, SQLite, Session Management
+
+### 🧠 Prompt Optimizer & AI Tool Suggestor *(Coming Soon)*
+> Created a dynamic system to recommend the best AI tools (e.g., ChatGPT, DALL·E, Bard) based on user prompts and use cases, while optimizing the prompt structure itself.  
+**Tech:** Python, Gemini API, Prompt Engineering, LangChain, LLP
 
 ---
 
@@ -94,7 +102,7 @@ Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates
 
 - [LinkedIn](https://www.linkedin.com/in/sahibsood/)
 - [Portfolio Website](https://sahibsood4.github.io)
-- 📧 sahib.s.sood@gmail.com
+- 📧 sahibs@smu.edu
 
 ---
 
