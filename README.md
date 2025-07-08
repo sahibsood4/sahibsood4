@@ -1,67 +1,86 @@
 # 👋 Hi, I'm Sahib Sood
 
-🎓 Business Analytics grad from SMU | 💼 Product & Business Analyst | 🧠 Data-Driven Thinker | 💡 Building tools that matter
+🎓 MS Business Analytics @ SMU | 💼 Software Engineer & Program Manager  
+🧠 Data-Driven Problem Solver | 💡 Builder of Scalable Tools
 
 ---
 
 ## 🚀 About Me
 
-I'm a Business Analyst with a strong product mindset and 5+ years of experience across healthcare, SaaS, and enterprise software. I specialize in turning ideas into practical tools—whether it's a dashboard, automation, or end-to-end solution. My work blends **business acumen**, **technical skills**, and **empathy for users**.
+I'm a software engineer and program manager with 5+ years of experience leading release management across healthcare, media, and enterprise tech. I specialize in delivering high-impact tools — from automation and dashboards to full release systems — that improve efficiency, reduce risk, and scale across diverse user bases.
+
+I blend **technical skills**, **agile leadership**, and **user-centered thinking** to ship solutions that solve real business problems.
 
 ---
 
 ## 🧠 Skills & Tools
 
-### 🛠️ Technical
-- **Languages**: Python, SQL, TypeScript, C++
-- **Tools**: Power BI, Excel (Advanced), Jira, Asana, Microsoft Project, Docker
-- **Platforms**: Microsoft Dynamics 365, Salesforce, Microsoft Azure, Power Platform (Power Apps, Power Automate)
+### 🛠 Technical
+- **Languages**: Python, SQL, C++, TypeScript
+- **Tools**: Jira, Asana, Power BI, Microsoft Project, Docker, Excel (Advanced)
+- **Platforms**: Microsoft Dynamics 365, Power Platform (Power Apps, Power Automate), Azure, Salesforce, Confluence
 
 ### 💼 Core Competencies
-- Product Management, MVP Development, Agile Planning
-- Data Analysis & Dashboarding
-- Process Automation & System Integration
-- Cross-functional Collaboration
+- Release & Program Management  
+- Agile Sprint Execution & Planning  
+- Automation & Workflow Optimization  
+- Cross-Functional Team Collaboration  
+- MVP Development & Delivery
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔬 Oracle – Capstone Project
-> Defined and delivered a **customer trigger analytics tool** to help Oracle sales prioritize leads  
-**Tech**: Python, SQL, Power BI
+### 🔬 Oracle – Capstone Project @ SMU  
+> Delivered a **customer trigger analytics tool** to help Oracle’s sales team prioritize leads using behavioral data.  
+**Tech:** Python, SQL, Power BI
 
-### 💊 MEDBAY – Health Prediction Platform ([GitHub Repo](https://github.com/sahibsood4/MEDBAY))
-> Integrated GPT API to respond to 500+ user queries/day, automating digital health advice and price checks  
-**Tech**: OpenAI GPT API, Python, Web Automation
+### 💊 MEDBAY – AI-Driven Pharmaceutical Website ([GitHub Repo](https://github.com/sahibsood4/MEDBAY))  
+> Automated responses to 500+ daily queries using OpenAI GPT API to improve digital health communication and pricing transparency.  
+**Tech:** GPT API, Python, Web Automation
 
 ---
 
 ## 💼 Professional Experience
 
 **Software Engineer @ Prakash Software Solutions**  
-Led delivery of 3 enterprise BI tools; improved report turnaround by 40% via user-driven product iterations.
+📍 *Indore, India | May 2023 – Jul 2024*  
+- Led releases for CRM, payroll, and supply chain platforms used by 10,000+ users globally  
+- Achieved 95%+ on-time delivery using Agile and JIRA  
+- Automated workflows to reduce manual time by 35% using Power Automate  
+- Partnered with QA to reduce post-release bugs by 20%
 
 **Software Engineer @ Sopra Steria (NHS UK)**  
-Shaped healthcare reporting dashboards; set up success metrics to guide product decisions.
+📍 *Noida, India | Aug 2022 – May 2023*  
+- Managed dashboards for NHS healthcare teams, serving 5,000+ users  
+- Improved release cycle speed by 20% and adoption by 15% via Dynamics 365  
+- Produced KPI reports that helped reduce incident rates by 15%
 
-**Associate Product Manager @ Shri Sai Software & AJS Healthcare**  
-Reengineered backend infrastructure, optimized performance, and launched hospital ops tools with high adoption.
+**Program Manager @ One For Edits**  
+📍 *Hyderabad, India | Apr 2021 – May 2022*  
+- Led video editing & storage platform programs for 8,000+ global creators  
+- Reduced release delays by 25% using JIRA + Agile  
+- Accelerated project delivery 20% with Python & SQL-based optimization
+
+**Associate Program Manager @ AJS Healthcare**  
+📍 *Indore, India | Mar 2019 – Apr 2021*  
+- Directed platform rollouts for telemedicine & pharmacy systems  
+- Delivered 95% on-time releases while cutting errors by 30%  
+- Collaborated with supply chain teams to improve inventory tracking by 20%
 
 ---
 
-## 📚 Education
+## 🎓 Education
 
 **M.S. Business Analytics**  
-Southern Methodist University, Dallas  
-_Courses: Project Management, Predictive Analytics, BI, LLMs, SQL, Statistics_
+Southern Methodist University (SMU), Dallas, TX | *Expected May 2025*  
+_Courses: Project Management, PDLC, BI, LLMs, Predictive Analytics, SQL_
 
 **B.Tech Computer Science**  
-SVVV, Indore  
-_Courses: Python, DBMS, Computer Networks, SDLC_
+SVVV, Indore, India | *Jun 2022*  
+_Courses: Python, DBMS, Computer Networks, SDLC, CI/CD_
 
 ---
-
 ## 📜 Certifications
 
 - 📈 [Google Project Management Certificate](https://coursera.org/share/73fda246aaf2f8a79aac946744585101)
