@@ -91,10 +91,12 @@ _Courses: Python, DBMS, Computer Networks, SDLC, CI/CD_
 ---
 ## 📜 Certifications
 
+- 🧪 [Prompt Engineering & Programming with OpenAI – Columbia+](https://badges.plus.columbia.edu/e3c5bdc6-cacd-47c3-8a71-00411c7f10ad#acc.0WfGbl6v)
 - 📈 [Google Project Management Certificate](https://coursera.org/share/73fda246aaf2f8a79aac946744585101)
-- 🧪 [Mastercard Advisors & Consulting Services Job
+- 🧮 [Mastercard Advisors & Consulting Services Job
 Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mfxGwGDp6WkQmtmTf/DZxgGgvMB6cEtEyJg_mfxGwGDp6WkQmtmTf_tMLpWz2AfKKnBrTPy_1744855709117_completion_certificate.pdf)
 - 🧠 [Predict Concrete Strength - Machine Learning](https://hicounselor.com/certificate/verify/MTI4MzE3MzIy)
+- ⚡ [Microsoft Certified: Power Platform Functional Consultant Associate](https://learn.microsoft.com/en-us/users/soodsahib-6332/credentials/18c0e9535df5eefb)
 
 ---
 
